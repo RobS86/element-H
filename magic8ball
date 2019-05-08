@@ -2,12 +2,6 @@
 import sys
 import random
 
-login = username, password
-
-username= Coen.de.Vries@hotmail.com
-Password= sesame_open01
- 
- 
 ans = True
 
 while ans:
